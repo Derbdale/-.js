@@ -1,6 +1,6 @@
 {
   "name": "poo-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Small library to detect internet explorer/edge",
   "main": "src/\uD83D\uDCA9.js",
   "scripts": {
