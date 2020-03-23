@@ -1,0 +1,23 @@
+{
+  "name": "poo-js",
+  "version": "1.0.0",
+  "description": "Small library to detect internet explorer/edge",
+  "main": "src/\uD83D\uDCA9.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Derbdale/-.js.git"
+  },
+  "keywords": [
+    "poo",
+    "ie"
+  ],
+  "author": "derbdale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Derbdale/-.js/issues"
+  },
+  "homepage": "https://github.com/Derbdale/-.js"
+}
